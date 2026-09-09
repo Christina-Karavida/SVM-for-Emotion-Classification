@@ -22,10 +22,6 @@ NLP project exploring **emotion classification in conversational text**.
 * GoEmotions: **63.22% accuracy**
 * Main challenges: **class imbalance and confusion between negative emotions**
 
-### Technologies
-
-`Python` · `NLP` · `Scikit-learn` · `TF-IDF` · `Bag-of-Words` · `SVM` · `GoEmotions`
-
 ### References
 
 * Demszky, D., et al. (2020). *GoEmotions: A Dataset of Fine-Grained Emotions*. ACL.
